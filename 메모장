@@ -1,0 +1,10 @@
+하단 표시줄에 HTML과 Prettier가 설정되어 있다면
+! + 엔터만 쳐도 기본 서식이 나타나게 된다.
+
+HTML 에서 주석은 <!---->로 쓴다
+Font Awesome code kit
+<script src="https://kit.fontawesome.com/6478f529f2.js"
+crossorigin="anonymous"></script>
+
+script는 항상 태그를 닫기 직전에 위치해야 한다.
+
