@@ -8,3 +8,6 @@ crossorigin="anonymous"></script>
 
 script는 항상 태그를 닫기 직전에 위치해야 한다.
 
+class와 id
+계속 쓰일 것 같은 것은 class로 만들고
+기껏해야 두번정도 쓰일 것 같은 것은 id를 준다.
