@@ -15,3 +15,24 @@ class와 id
 <head>에 link:css 만 쓰면 필요한 css와 바로 자동완성으로 연결된다.
 
 fa-lg 어느 아이콘이든 크게 만들어준다.
+
+reset css
+브라우저에서 맞춰주는 기본 스타일을 제거하는 파일
+
+css파일을 하나에 다 쓰지 말고 기능 구현 별로 나누어서 저장하는 것이 좋다.
+
+css파일이 여러 개라면 link로 html에 넣는 것이 아니라
+css 파일 하나에 @import 로 넣어버리는 것이 좋다.
+
+픽셀 단위 구현은 page ruler redox 확장 프로그램을 사용한다.
+
+텍스트의 회색 구현은 opacity를 줄여도 된다.
+
+아이템 새로 정렬
+display: flex;
+flex-direction: column;
+
+ColorZilla 색깔 스포이드 확장 프로그램
+
+BEM 방식으로 쓰는 것이 굉장히 읽기도 편하고 쓰기도 편하다.
+id 쓸 필요없이 class로만 쓰면 됨.
